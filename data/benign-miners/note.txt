@@ -1,0 +1,1 @@
+Read Log files are huge and not possible to store on git and so their content here is empty and their name are the shortcut to find them over the drive.

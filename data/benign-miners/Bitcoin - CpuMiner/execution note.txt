@@ -1,0 +1,11 @@
+
+
+
+Code: https://github.com/pooler/cpuminer
+Executable file: https://sourceforge.net/projects/cpuminer/
+
+
+minerd.exe -a sha256d -o stratum+tcp://btc.f2pool.com:1314 -u myUserName -p myPassword
+
+f2pool currencies with SHA256d algorithm: BTC and BCH, according to: https://www.f2pool.com/
+
