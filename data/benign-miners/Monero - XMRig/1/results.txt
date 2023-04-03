@@ -1,8 +1,0 @@
-from: ‎Tuesday, ‎May ‎24, ‎2022, ‏‎12:24:43 PM
-to: ‎Tuesday, ‎May ‎24, ‎2022, ‏‎12:27:32 PM
-
-hash: 2630375	264895	156	2022-05-24 10:22:38	2b533597c86ec570ae192dd728008cd64d2380e9edfab7f0b8adeda67d5698bf
-
-duration:3 min
-size: 296 MB 
-memory hit: 10

@@ -1,2 +1,0 @@
-Read Log files are huge and not possible to store on git and so their content here is empty and their name are the shortcut to find them over the drive:
-https://drive.google.com/drive/folders/1cDK7r-eQFMasofLhKC7_Ly2iU0fvrzCF?usp=share_link
